@@ -1,0 +1,901 @@
+Timestamp,ActivityID,ActivityState,ObjectState,ActivityLabel,object
+1970-01-01 00:00:00.000000,074882d5-11bc-421b-bcd6-c7beaa872ba2,START,"{'container level': 50, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 00:04:00.000000,074882d5-11bc-421b-bcd6-c7beaa872ba2,STOP,"{'container level': 49, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 00:04:00.000000,aa01ae7f-770c-42d6-a65b-084611780a6a,START,"{'container level': 49, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 00:08:00.000000,aa01ae7f-770c-42d6-a65b-084611780a6a,STOP,"{'container level': 48, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 00:10:00.000000,03edfe64-bc4d-49e2-adc0-b59faefc5536,START,"{'container level': 48, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 00:14:00.000000,03edfe64-bc4d-49e2-adc0-b59faefc5536,STOP,"{'container level': 47, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 00:16:00.000000,436cd9f5-f1d9-49b5-a051-12fba13f7c9b,START,"{'container level': 47, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 00:20:00.000000,436cd9f5-f1d9-49b5-a051-12fba13f7c9b,STOP,"{'container level': 46, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 00:22:00.000000,7eee0ec7-ade6-4fea-9ea8-f49e8c77e50d,START,"{'container level': 46, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 00:26:00.000000,7eee0ec7-ade6-4fea-9ea8-f49e8c77e50d,STOP,"{'container level': 45, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 00:28:00.000000,25475845-b5b0-4ee4-80b9-b79016e5186d,START,"{'container level': 45, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 00:32:00.000000,25475845-b5b0-4ee4-80b9-b79016e5186d,STOP,"{'container level': 44, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 00:34:00.000000,36a068ce-783a-416d-8854-a6320ca8c860,START,"{'container level': 44, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 00:38:00.000000,36a068ce-783a-416d-8854-a6320ca8c860,STOP,"{'container level': 43, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 00:40:00.000000,a1f87411-1c33-4394-93b5-c5d40dfeeff5,START,"{'container level': 43, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 00:44:00.000000,a1f87411-1c33-4394-93b5-c5d40dfeeff5,STOP,"{'container level': 42, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 00:46:00.000000,708f6460-516f-4481-b87f-131b91522bc6,START,"{'container level': 42, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 00:50:00.000000,708f6460-516f-4481-b87f-131b91522bc6,STOP,"{'container level': 41, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 00:52:00.000000,dbdf00cf-e8a3-4faa-9776-a02f5c8ba73a,START,"{'container level': 41, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 00:56:00.000000,dbdf00cf-e8a3-4faa-9776-a02f5c8ba73a,STOP,"{'container level': 40, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 00:58:00.000000,9ce766ae-fcc5-480d-92ed-5b7b27255aed,START,"{'container level': 40, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 01:02:00.000000,9ce766ae-fcc5-480d-92ed-5b7b27255aed,STOP,"{'container level': 39, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 01:04:00.000000,7f299faa-565f-4efc-aa2b-ef868909d92d,START,"{'container level': 39, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 01:08:00.000000,7f299faa-565f-4efc-aa2b-ef868909d92d,STOP,"{'container level': 38, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 01:10:00.000000,1773047e-ac61-45fc-b84b-9a00515380e7,START,"{'container level': 38, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 01:14:00.000000,1773047e-ac61-45fc-b84b-9a00515380e7,STOP,"{'container level': 37, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 01:16:00.000000,8fc66647-9b4c-4e2c-8bc7-80089560eac5,START,"{'container level': 37, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 01:20:00.000000,8fc66647-9b4c-4e2c-8bc7-80089560eac5,STOP,"{'container level': 36, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 01:22:00.000000,b220676b-87d7-4f23-8136-3d61f7e6addc,START,"{'container level': 36, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 01:26:00.000000,b220676b-87d7-4f23-8136-3d61f7e6addc,STOP,"{'container level': 35, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 01:28:00.000000,16446a82-d0de-44e5-adb2-4913d5e141c2,START,"{'container level': 35, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 01:32:00.000000,16446a82-d0de-44e5-adb2-4913d5e141c2,STOP,"{'container level': 34, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 01:34:00.000000,99565090-8e5b-4224-a9ba-104eebd14fa2,START,"{'container level': 34, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 01:38:00.000000,99565090-8e5b-4224-a9ba-104eebd14fa2,STOP,"{'container level': 33, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 01:40:00.000000,e5118e7c-7d54-476a-b4a0-d908a11fd9d9,START,"{'container level': 33, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 01:44:00.000000,e5118e7c-7d54-476a-b4a0-d908a11fd9d9,STOP,"{'container level': 32, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 01:46:00.000000,86ac83e7-53b0-43b5-8a82-2721fceb8661,START,"{'container level': 32, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 01:50:00.000000,86ac83e7-53b0-43b5-8a82-2721fceb8661,STOP,"{'container level': 31, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 01:52:00.000000,fb99e62e-654a-4f7e-b3ca-4463d6165901,START,"{'container level': 31, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 01:56:00.000000,fb99e62e-654a-4f7e-b3ca-4463d6165901,STOP,"{'container level': 30, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 01:58:00.000000,819a2265-6a0c-4ee4-9005-3703043150d9,START,"{'container level': 30, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 02:02:00.000000,819a2265-6a0c-4ee4-9005-3703043150d9,STOP,"{'container level': 29, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 02:04:00.000000,d9c74355-af0b-4ca6-b50e-c6de208dfe74,START,"{'container level': 29, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 02:08:00.000000,d9c74355-af0b-4ca6-b50e-c6de208dfe74,STOP,"{'container level': 28, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 02:10:00.000000,d08b4f54-2707-4766-ba1f-4bc427d8f96b,START,"{'container level': 28, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 02:14:00.000000,d08b4f54-2707-4766-ba1f-4bc427d8f96b,STOP,"{'container level': 27, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 02:16:00.000000,0df6a8f1-95e6-4a6a-9be8-1432a680cfab,START,"{'container level': 27, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 02:20:00.000000,0df6a8f1-95e6-4a6a-9be8-1432a680cfab,STOP,"{'container level': 26, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 02:22:00.000000,bf56a2ed-2f74-4351-a3c6-0851c4029ad1,START,"{'container level': 26, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 02:26:00.000000,bf56a2ed-2f74-4351-a3c6-0851c4029ad1,STOP,"{'container level': 25, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 02:28:00.000000,89a61fda-7459-407b-9057-c034036dc541,START,"{'container level': 25, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 02:32:00.000000,89a61fda-7459-407b-9057-c034036dc541,STOP,"{'container level': 24, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 02:34:00.000000,24cd3be1-216c-420e-b662-12a8f7584087,START,"{'container level': 24, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 02:38:00.000000,24cd3be1-216c-420e-b662-12a8f7584087,STOP,"{'container level': 23, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 02:40:00.000000,266ab7ca-80ae-45f1-8a3f-e81c19a955b9,START,"{'container level': 23, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 02:44:00.000000,266ab7ca-80ae-45f1-8a3f-e81c19a955b9,STOP,"{'container level': 22, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 02:46:00.000000,2b38e039-3835-461b-97cf-9383b70b5ff6,START,"{'container level': 22, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 02:50:00.000000,2b38e039-3835-461b-97cf-9383b70b5ff6,STOP,"{'container level': 21, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 02:52:00.000000,a68e0926-5489-430c-bd0e-c8ab50bdeba5,START,"{'container level': 21, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 02:56:00.000000,a68e0926-5489-430c-bd0e-c8ab50bdeba5,STOP,"{'container level': 20, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 02:58:00.000000,f4354939-66d8-4c06-ab41-1a9ade0fb7f6,START,"{'container level': 20, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 03:02:00.000000,f4354939-66d8-4c06-ab41-1a9ade0fb7f6,STOP,"{'container level': 19, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 03:04:00.000000,86ffba4d-893b-42fc-8997-35d686682d94,START,"{'container level': 19, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 03:08:00.000000,86ffba4d-893b-42fc-8997-35d686682d94,STOP,"{'container level': 18, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 03:10:00.000000,df415b60-7054-4d6b-96f2-5c31a1a5ae99,START,"{'container level': 18, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 03:14:00.000000,df415b60-7054-4d6b-96f2-5c31a1a5ae99,STOP,"{'container level': 17, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 03:16:00.000000,2854822a-8dc9-47d1-a5c3-9c0e6b39c0b4,START,"{'container level': 17, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 03:20:00.000000,2854822a-8dc9-47d1-a5c3-9c0e6b39c0b4,STOP,"{'container level': 16, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 03:22:00.000000,0bcdfb85-c720-4eee-9f80-45c6cc8e62f9,START,"{'container level': 16, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 03:26:00.000000,0bcdfb85-c720-4eee-9f80-45c6cc8e62f9,STOP,"{'container level': 15, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 03:28:00.000000,75ec6b3f-1d58-4dce-8bf2-de4c728dc6e1,START,"{'container level': 15, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 03:32:00.000000,75ec6b3f-1d58-4dce-8bf2-de4c728dc6e1,STOP,"{'container level': 14, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 03:34:00.000000,788fcce1-6ac3-43b8-bff5-3e3f2a9411f4,START,"{'container level': 14, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 03:38:00.000000,788fcce1-6ac3-43b8-bff5-3e3f2a9411f4,STOP,"{'container level': 13, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 03:40:00.000000,d016d3c7-b994-41da-baad-a993f3a0195c,START,"{'container level': 13, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 03:44:00.000000,d016d3c7-b994-41da-baad-a993f3a0195c,STOP,"{'container level': 12, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 03:46:00.000000,7f4462b1-1a84-4d51-a239-e0636cf85d68,START,"{'container level': 12, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 03:50:00.000000,7f4462b1-1a84-4d51-a239-e0636cf85d68,STOP,"{'container level': 11, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 03:52:00.000000,5323fdd3-d21d-4691-bb18-2ea973a06fdf,START,"{'container level': 11, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 03:56:00.000000,5323fdd3-d21d-4691-bb18-2ea973a06fdf,STOP,"{'container level': 10, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 03:58:00.000000,0af9d34e-d51c-485e-ab1a-7720453c90be,START,"{'container level': 10, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 04:02:00.000000,0af9d34e-d51c-485e-ab1a-7720453c90be,STOP,"{'container level': 9, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 04:04:00.000000,444635c6-c37d-4c5d-b4d2-a778a0733bb6,START,"{'container level': 9, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 04:08:00.000000,444635c6-c37d-4c5d-b4d2-a778a0733bb6,STOP,"{'container level': 8, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 04:10:00.000000,02974cdc-fbd5-4ffe-9351-7d31f4578ec5,START,"{'container level': 8, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 04:14:00.000000,02974cdc-fbd5-4ffe-9351-7d31f4578ec5,STOP,"{'container level': 7, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 04:16:00.000000,e1ec6d8b-912e-4661-a708-a4a7e253ba00,START,"{'container level': 7, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 04:20:00.000000,e1ec6d8b-912e-4661-a708-a4a7e253ba00,STOP,"{'container level': 6, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 04:22:00.000000,8b87b1f3-2289-4972-94b7-1b3e8f10ba08,START,"{'container level': 6, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 04:26:00.000000,8b87b1f3-2289-4972-94b7-1b3e8f10ba08,STOP,"{'container level': 5, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 04:28:00.000000,7c2459dc-fc27-4ec3-beac-f3ee43ff4531,START,"{'container level': 5, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 04:32:00.000000,7c2459dc-fc27-4ec3-beac-f3ee43ff4531,STOP,"{'container level': 4, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 04:34:00.000000,9fb17694-256f-46c0-9945-86607356919a,START,"{'container level': 4, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 04:38:00.000000,9fb17694-256f-46c0-9945-86607356919a,STOP,"{'container level': 3, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 04:40:00.000000,58bc5adf-8d60-4f78-90a1-852e032ffd92,START,"{'container level': 3, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 04:44:00.000000,58bc5adf-8d60-4f78-90a1-852e032ffd92,STOP,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 04:46:00.000000,f0e876de-de38-47b0-bda4-094a8912ff75,START,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 04:50:00.000000,f0e876de-de38-47b0-bda4-094a8912ff75,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 04:52:00.000000,fb579b0b-d001-475a-ba94-a1c23cd54b84,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 04:56:00.000000,fb579b0b-d001-475a-ba94-a1c23cd54b84,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},vessel01
+1970-01-01 00:00:00.000000,074882d5-11bc-421b-bcd6-c7beaa872ba2,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 00:04:00.000000,074882d5-11bc-421b-bcd6-c7beaa872ba2,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 00:04:00.000000,aa01ae7f-770c-42d6-a65b-084611780a6a,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 00:08:00.000000,aa01ae7f-770c-42d6-a65b-084611780a6a,STOP,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 00:08:00.000000,01bfb014-4eb1-4fe3-a24d-29295f980206,START,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 00:10:00.000000,01bfb014-4eb1-4fe3-a24d-29295f980206,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 00:10:00.000000,03edfe64-bc4d-49e2-adc0-b59faefc5536,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 00:14:00.000000,03edfe64-bc4d-49e2-adc0-b59faefc5536,STOP,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 00:14:00.000000,170e010c-925b-49e4-814f-a283c661ff57,START,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 00:16:00.000000,170e010c-925b-49e4-814f-a283c661ff57,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 00:16:00.000000,436cd9f5-f1d9-49b5-a051-12fba13f7c9b,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 00:20:00.000000,436cd9f5-f1d9-49b5-a051-12fba13f7c9b,STOP,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 00:20:00.000000,cd9739f1-2951-41d3-8994-5251a1c53c64,START,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 00:22:00.000000,cd9739f1-2951-41d3-8994-5251a1c53c64,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 00:22:00.000000,7eee0ec7-ade6-4fea-9ea8-f49e8c77e50d,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 00:26:00.000000,7eee0ec7-ade6-4fea-9ea8-f49e8c77e50d,STOP,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 00:26:00.000000,7c77bf05-3976-4b7f-b525-3c4240e90c05,START,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 00:28:00.000000,7c77bf05-3976-4b7f-b525-3c4240e90c05,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 00:28:00.000000,25475845-b5b0-4ee4-80b9-b79016e5186d,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 00:32:00.000000,25475845-b5b0-4ee4-80b9-b79016e5186d,STOP,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 00:32:00.000000,9ff8082f-3a92-41ae-ab22-e8bd90c69ae7,START,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 00:34:00.000000,9ff8082f-3a92-41ae-ab22-e8bd90c69ae7,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 00:34:00.000000,36a068ce-783a-416d-8854-a6320ca8c860,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 00:38:00.000000,36a068ce-783a-416d-8854-a6320ca8c860,STOP,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 00:38:00.000000,50dc4905-16b2-4cf3-895c-64778a57865e,START,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 00:40:00.000000,50dc4905-16b2-4cf3-895c-64778a57865e,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 00:40:00.000000,a1f87411-1c33-4394-93b5-c5d40dfeeff5,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 00:44:00.000000,a1f87411-1c33-4394-93b5-c5d40dfeeff5,STOP,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 00:44:00.000000,0fa48931-ff0d-4e39-8d8c-ff5498b2e8e7,START,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 00:46:00.000000,0fa48931-ff0d-4e39-8d8c-ff5498b2e8e7,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 00:46:00.000000,708f6460-516f-4481-b87f-131b91522bc6,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 00:50:00.000000,708f6460-516f-4481-b87f-131b91522bc6,STOP,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 00:50:00.000000,0cd79a4b-f49e-4f50-919f-4ed398d12a71,START,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 00:52:00.000000,0cd79a4b-f49e-4f50-919f-4ed398d12a71,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 00:52:00.000000,dbdf00cf-e8a3-4faa-9776-a02f5c8ba73a,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 00:56:00.000000,dbdf00cf-e8a3-4faa-9776-a02f5c8ba73a,STOP,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 00:56:00.000000,c4b07252-bf09-4771-a9b1-f6cd68d203c2,START,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 00:58:00.000000,c4b07252-bf09-4771-a9b1-f6cd68d203c2,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 00:58:00.000000,9ce766ae-fcc5-480d-92ed-5b7b27255aed,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 01:02:00.000000,9ce766ae-fcc5-480d-92ed-5b7b27255aed,STOP,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 01:02:00.000000,2a7a8c9b-e425-4729-8030-838a6282cc74,START,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 01:04:00.000000,2a7a8c9b-e425-4729-8030-838a6282cc74,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 01:04:00.000000,7f299faa-565f-4efc-aa2b-ef868909d92d,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 01:08:00.000000,7f299faa-565f-4efc-aa2b-ef868909d92d,STOP,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 01:08:00.000000,ad6027d4-3151-4bd3-bd63-eb9d396ce5ec,START,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 01:10:00.000000,ad6027d4-3151-4bd3-bd63-eb9d396ce5ec,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 01:10:00.000000,1773047e-ac61-45fc-b84b-9a00515380e7,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 01:14:00.000000,1773047e-ac61-45fc-b84b-9a00515380e7,STOP,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 01:14:00.000000,f4f382f4-f4ba-415f-a1bf-8ff106232965,START,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 01:16:00.000000,f4f382f4-f4ba-415f-a1bf-8ff106232965,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 01:16:00.000000,8fc66647-9b4c-4e2c-8bc7-80089560eac5,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 01:20:00.000000,8fc66647-9b4c-4e2c-8bc7-80089560eac5,STOP,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 01:20:00.000000,5cbeadb9-5485-42c3-ae18-df100825ab43,START,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 01:22:00.000000,5cbeadb9-5485-42c3-ae18-df100825ab43,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 01:22:00.000000,b220676b-87d7-4f23-8136-3d61f7e6addc,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 01:26:00.000000,b220676b-87d7-4f23-8136-3d61f7e6addc,STOP,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 01:26:00.000000,3bcf9280-81a2-4b54-9d7c-eb5a6cf4ad70,START,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 01:28:00.000000,3bcf9280-81a2-4b54-9d7c-eb5a6cf4ad70,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 01:28:00.000000,16446a82-d0de-44e5-adb2-4913d5e141c2,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 01:32:00.000000,16446a82-d0de-44e5-adb2-4913d5e141c2,STOP,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 01:32:00.000000,5698069e-1773-44f6-80c0-c81324771a2c,START,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 01:34:00.000000,5698069e-1773-44f6-80c0-c81324771a2c,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 01:34:00.000000,99565090-8e5b-4224-a9ba-104eebd14fa2,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 01:38:00.000000,99565090-8e5b-4224-a9ba-104eebd14fa2,STOP,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 01:38:00.000000,47400ef1-917c-4e62-a21a-ea9ab428f6b2,START,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 01:40:00.000000,47400ef1-917c-4e62-a21a-ea9ab428f6b2,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 01:40:00.000000,e5118e7c-7d54-476a-b4a0-d908a11fd9d9,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 01:44:00.000000,e5118e7c-7d54-476a-b4a0-d908a11fd9d9,STOP,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 01:44:00.000000,c7415314-e997-4779-a8d5-2f507c0efc15,START,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 01:46:00.000000,c7415314-e997-4779-a8d5-2f507c0efc15,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 01:46:00.000000,86ac83e7-53b0-43b5-8a82-2721fceb8661,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 01:50:00.000000,86ac83e7-53b0-43b5-8a82-2721fceb8661,STOP,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 01:50:00.000000,224e0ba4-37b2-4cf7-8740-1cfde7666749,START,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 01:52:00.000000,224e0ba4-37b2-4cf7-8740-1cfde7666749,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 01:52:00.000000,fb99e62e-654a-4f7e-b3ca-4463d6165901,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 01:56:00.000000,fb99e62e-654a-4f7e-b3ca-4463d6165901,STOP,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 01:56:00.000000,6a55c427-f3f3-4338-ad2a-eab55465e7bc,START,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 01:58:00.000000,6a55c427-f3f3-4338-ad2a-eab55465e7bc,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 01:58:00.000000,819a2265-6a0c-4ee4-9005-3703043150d9,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 02:02:00.000000,819a2265-6a0c-4ee4-9005-3703043150d9,STOP,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 02:02:00.000000,a3ad6ed9-4849-49b3-864f-f8e00b9e32d5,START,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 02:04:00.000000,a3ad6ed9-4849-49b3-864f-f8e00b9e32d5,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 02:04:00.000000,d9c74355-af0b-4ca6-b50e-c6de208dfe74,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 02:08:00.000000,d9c74355-af0b-4ca6-b50e-c6de208dfe74,STOP,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 02:08:00.000000,5981992e-a681-412e-bd03-ec08b7ce234b,START,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 02:10:00.000000,5981992e-a681-412e-bd03-ec08b7ce234b,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 02:10:00.000000,d08b4f54-2707-4766-ba1f-4bc427d8f96b,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 02:14:00.000000,d08b4f54-2707-4766-ba1f-4bc427d8f96b,STOP,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 02:14:00.000000,1c4aa033-4cbf-41cd-a46b-17540912599b,START,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 02:16:00.000000,1c4aa033-4cbf-41cd-a46b-17540912599b,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 02:16:00.000000,0df6a8f1-95e6-4a6a-9be8-1432a680cfab,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 02:20:00.000000,0df6a8f1-95e6-4a6a-9be8-1432a680cfab,STOP,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 02:20:00.000000,013a78bd-c844-486a-953a-f075b6a4238b,START,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 02:22:00.000000,013a78bd-c844-486a-953a-f075b6a4238b,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 02:22:00.000000,bf56a2ed-2f74-4351-a3c6-0851c4029ad1,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 02:26:00.000000,bf56a2ed-2f74-4351-a3c6-0851c4029ad1,STOP,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 02:26:00.000000,3b70215b-862c-4767-98f3-a8d56037610c,START,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 02:28:00.000000,3b70215b-862c-4767-98f3-a8d56037610c,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 02:28:00.000000,89a61fda-7459-407b-9057-c034036dc541,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 02:32:00.000000,89a61fda-7459-407b-9057-c034036dc541,STOP,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 02:32:00.000000,e37f7dfc-29ce-4142-852f-e6d5bd287b98,START,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 02:34:00.000000,e37f7dfc-29ce-4142-852f-e6d5bd287b98,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 02:34:00.000000,24cd3be1-216c-420e-b662-12a8f7584087,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 02:38:00.000000,24cd3be1-216c-420e-b662-12a8f7584087,STOP,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 02:38:00.000000,a19d81c1-9c7c-43c1-a33b-2307cbbcccc1,START,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 02:40:00.000000,a19d81c1-9c7c-43c1-a33b-2307cbbcccc1,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 02:40:00.000000,266ab7ca-80ae-45f1-8a3f-e81c19a955b9,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 02:44:00.000000,266ab7ca-80ae-45f1-8a3f-e81c19a955b9,STOP,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 02:44:00.000000,cecfb290-090e-4589-af0d-a263cf112ab8,START,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 02:46:00.000000,cecfb290-090e-4589-af0d-a263cf112ab8,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 02:46:00.000000,2b38e039-3835-461b-97cf-9383b70b5ff6,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 02:50:00.000000,2b38e039-3835-461b-97cf-9383b70b5ff6,STOP,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 02:50:00.000000,3393090e-0d4f-43bd-b495-ae6f694b8284,START,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 02:52:00.000000,3393090e-0d4f-43bd-b495-ae6f694b8284,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 02:52:00.000000,a68e0926-5489-430c-bd0e-c8ab50bdeba5,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 02:56:00.000000,a68e0926-5489-430c-bd0e-c8ab50bdeba5,STOP,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 02:56:00.000000,c663ca9b-a30d-4b67-b239-5a298bca3044,START,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 02:58:00.000000,c663ca9b-a30d-4b67-b239-5a298bca3044,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 02:58:00.000000,f4354939-66d8-4c06-ab41-1a9ade0fb7f6,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 03:02:00.000000,f4354939-66d8-4c06-ab41-1a9ade0fb7f6,STOP,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 03:02:00.000000,b0c1cd92-6526-457a-98a4-de57f083d1bf,START,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 03:04:00.000000,b0c1cd92-6526-457a-98a4-de57f083d1bf,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 03:04:00.000000,86ffba4d-893b-42fc-8997-35d686682d94,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 03:08:00.000000,86ffba4d-893b-42fc-8997-35d686682d94,STOP,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 03:08:00.000000,3e4b7c0a-57af-4116-8b5c-621d780469e2,START,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 03:10:00.000000,3e4b7c0a-57af-4116-8b5c-621d780469e2,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 03:10:00.000000,df415b60-7054-4d6b-96f2-5c31a1a5ae99,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 03:14:00.000000,df415b60-7054-4d6b-96f2-5c31a1a5ae99,STOP,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 03:14:00.000000,6d020ca0-0d69-486c-a7f3-ee52d5543181,START,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 03:16:00.000000,6d020ca0-0d69-486c-a7f3-ee52d5543181,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 03:16:00.000000,2854822a-8dc9-47d1-a5c3-9c0e6b39c0b4,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 03:20:00.000000,2854822a-8dc9-47d1-a5c3-9c0e6b39c0b4,STOP,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 03:20:00.000000,07581c38-8269-419a-8889-b35a0d1c7779,START,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 03:22:00.000000,07581c38-8269-419a-8889-b35a0d1c7779,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 03:22:00.000000,0bcdfb85-c720-4eee-9f80-45c6cc8e62f9,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 03:26:00.000000,0bcdfb85-c720-4eee-9f80-45c6cc8e62f9,STOP,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 03:26:00.000000,56b1f9de-8f25-4f62-b1c2-51d043a7886c,START,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 03:28:00.000000,56b1f9de-8f25-4f62-b1c2-51d043a7886c,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 03:28:00.000000,75ec6b3f-1d58-4dce-8bf2-de4c728dc6e1,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 03:32:00.000000,75ec6b3f-1d58-4dce-8bf2-de4c728dc6e1,STOP,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 03:32:00.000000,b5476a28-efa1-41ae-bc36-cf142da14020,START,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 03:34:00.000000,b5476a28-efa1-41ae-bc36-cf142da14020,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 03:34:00.000000,788fcce1-6ac3-43b8-bff5-3e3f2a9411f4,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 03:38:00.000000,788fcce1-6ac3-43b8-bff5-3e3f2a9411f4,STOP,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 03:38:00.000000,8cd70d2b-d42e-4835-bd09-6aa384fac2ed,START,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 03:40:00.000000,8cd70d2b-d42e-4835-bd09-6aa384fac2ed,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 03:40:00.000000,d016d3c7-b994-41da-baad-a993f3a0195c,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 03:44:00.000000,d016d3c7-b994-41da-baad-a993f3a0195c,STOP,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 03:44:00.000000,fcffbd33-77f1-430b-bfdb-ee8f347fba2b,START,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 03:46:00.000000,fcffbd33-77f1-430b-bfdb-ee8f347fba2b,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 03:46:00.000000,7f4462b1-1a84-4d51-a239-e0636cf85d68,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 03:50:00.000000,7f4462b1-1a84-4d51-a239-e0636cf85d68,STOP,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 03:50:00.000000,b6752478-1eac-4559-bf4b-6b9c313b4421,START,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 03:52:00.000000,b6752478-1eac-4559-bf4b-6b9c313b4421,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 03:52:00.000000,5323fdd3-d21d-4691-bb18-2ea973a06fdf,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 03:56:00.000000,5323fdd3-d21d-4691-bb18-2ea973a06fdf,STOP,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 03:56:00.000000,fa3a2f47-be14-41a5-9b74-d760e90de438,START,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 03:58:00.000000,fa3a2f47-be14-41a5-9b74-d760e90de438,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 03:58:00.000000,0af9d34e-d51c-485e-ab1a-7720453c90be,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 04:02:00.000000,0af9d34e-d51c-485e-ab1a-7720453c90be,STOP,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 04:02:00.000000,fa6af52f-d0fb-4961-8611-e6f8470de195,START,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 04:04:00.000000,fa6af52f-d0fb-4961-8611-e6f8470de195,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 04:04:00.000000,444635c6-c37d-4c5d-b4d2-a778a0733bb6,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 04:08:00.000000,444635c6-c37d-4c5d-b4d2-a778a0733bb6,STOP,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 04:08:00.000000,648297ce-d72b-4594-b1b3-3ff9b129e18f,START,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 04:10:00.000000,648297ce-d72b-4594-b1b3-3ff9b129e18f,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 04:10:00.000000,02974cdc-fbd5-4ffe-9351-7d31f4578ec5,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 04:14:00.000000,02974cdc-fbd5-4ffe-9351-7d31f4578ec5,STOP,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 04:14:00.000000,da095e94-ef24-4287-b952-60d016482e42,START,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 04:16:00.000000,da095e94-ef24-4287-b952-60d016482e42,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 04:16:00.000000,e1ec6d8b-912e-4661-a708-a4a7e253ba00,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 04:20:00.000000,e1ec6d8b-912e-4661-a708-a4a7e253ba00,STOP,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 04:20:00.000000,d856a347-4a02-4190-a27c-65a724ef115f,START,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 04:22:00.000000,d856a347-4a02-4190-a27c-65a724ef115f,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 04:22:00.000000,8b87b1f3-2289-4972-94b7-1b3e8f10ba08,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 04:26:00.000000,8b87b1f3-2289-4972-94b7-1b3e8f10ba08,STOP,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 04:26:00.000000,a7a4fd3a-f578-4002-97cd-95a97c310c4c,START,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 04:28:00.000000,a7a4fd3a-f578-4002-97cd-95a97c310c4c,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 04:28:00.000000,7c2459dc-fc27-4ec3-beac-f3ee43ff4531,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 04:32:00.000000,7c2459dc-fc27-4ec3-beac-f3ee43ff4531,STOP,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 04:32:00.000000,4188d4ae-2f65-4ea7-9249-797d73fbbcca,START,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 04:34:00.000000,4188d4ae-2f65-4ea7-9249-797d73fbbcca,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 04:34:00.000000,9fb17694-256f-46c0-9945-86607356919a,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 04:38:00.000000,9fb17694-256f-46c0-9945-86607356919a,STOP,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 04:38:00.000000,7f9a8bf4-a5a9-4288-9924-5411b9c77ab7,START,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 04:40:00.000000,7f9a8bf4-a5a9-4288-9924-5411b9c77ab7,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 04:40:00.000000,58bc5adf-8d60-4f78-90a1-852e032ffd92,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 04:44:00.000000,58bc5adf-8d60-4f78-90a1-852e032ffd92,STOP,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 04:44:00.000000,98c6f202-1aa1-49d0-94e5-a808b485a5ef,START,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 04:46:00.000000,98c6f202-1aa1-49d0-94e5-a808b485a5ef,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 04:46:00.000000,f0e876de-de38-47b0-bda4-094a8912ff75,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 04:50:00.000000,f0e876de-de38-47b0-bda4-094a8912ff75,STOP,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 04:50:00.000000,40c25e5d-1452-4f9c-b426-91f368332ba3,START,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 04:52:00.000000,40c25e5d-1452-4f9c-b426-91f368332ba3,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 04:52:00.000000,fb579b0b-d001-475a-ba94-a1c23cd54b84,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 04:56:00.000000,fb579b0b-d001-475a-ba94-a1c23cd54b84,STOP,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 04:56:00.000000,a2c10968-f7ac-4266-abc2-57d57a295f8e,START,"{'container level': 2, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 04:58:00.000000,a2c10968-f7ac-4266-abc2-57d57a295f8e,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 04:58:00.000000,1301a52f-e390-47af-a540-58a9562bf9ff,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 05:00:00.000000,1301a52f-e390-47af-a540-58a9562bf9ff,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},Quay Site
+1970-01-01 00:10:10.979233,de0ea793-fd79-447c-a2e8-056f047bf701,START,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 00:12:10.979233,de0ea793-fd79-447c-a2e8-056f047bf701,STOP,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 00:16:10.979233,6717708a-f53e-4d7f-ab4d-ef5aa96f052d,START,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 00:18:10.979233,6717708a-f53e-4d7f-ab4d-ef5aa96f052d,STOP,"{'container level': 2, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 00:22:10.979233,249384c9-a451-4d16-8c89-cd4bd1a9f872,START,"{'container level': 2, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 00:24:10.979233,249384c9-a451-4d16-8c89-cd4bd1a9f872,STOP,"{'container level': 3, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 00:28:10.979233,74485c63-b21b-4625-b6be-4fb5ae8b6f44,START,"{'container level': 3, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 00:30:10.979233,74485c63-b21b-4625-b6be-4fb5ae8b6f44,STOP,"{'container level': 4, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 00:34:10.979233,cc101e68-a9db-40c8-b596-fd405dc73313,START,"{'container level': 4, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 00:36:10.979233,cc101e68-a9db-40c8-b596-fd405dc73313,STOP,"{'container level': 5, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 00:40:10.979233,cfa08f96-e4fe-49c1-8cb4-606743dd0db9,START,"{'container level': 5, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 00:42:10.979233,cfa08f96-e4fe-49c1-8cb4-606743dd0db9,STOP,"{'container level': 6, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 00:46:10.979233,14d303f1-fe52-4cfa-921f-23754260e0b1,START,"{'container level': 6, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 00:48:10.979233,14d303f1-fe52-4cfa-921f-23754260e0b1,STOP,"{'container level': 7, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 00:52:10.979233,6f4ec8f6-1b8c-4bb4-a35c-b272a2862552,START,"{'container level': 7, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 00:54:10.979233,6f4ec8f6-1b8c-4bb4-a35c-b272a2862552,STOP,"{'container level': 8, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 00:58:10.979233,0dde57ef-7c8a-4fa2-ba2d-f43f0c7c8860,START,"{'container level': 8, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 01:00:10.979233,0dde57ef-7c8a-4fa2-ba2d-f43f0c7c8860,STOP,"{'container level': 9, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 01:04:10.979233,fd7e099b-5447-4746-9347-bff8b8d302d4,START,"{'container level': 9, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 01:06:10.979233,fd7e099b-5447-4746-9347-bff8b8d302d4,STOP,"{'container level': 10, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 01:10:10.979233,a0be7513-2481-41c0-9638-cb133b1a3fd8,START,"{'container level': 10, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 01:12:10.979233,a0be7513-2481-41c0-9638-cb133b1a3fd8,STOP,"{'container level': 11, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 01:16:10.979233,4fc0e19e-ee8b-46dc-9d88-b3c54b846769,START,"{'container level': 11, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 01:18:10.979233,4fc0e19e-ee8b-46dc-9d88-b3c54b846769,STOP,"{'container level': 12, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 01:22:10.979233,e2bbe74c-04ee-429d-b8fe-4f188aa0a20f,START,"{'container level': 12, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 01:24:10.979233,e2bbe74c-04ee-429d-b8fe-4f188aa0a20f,STOP,"{'container level': 13, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 01:28:10.979233,fa110747-b83e-4ed0-a41c-22644e710f26,START,"{'container level': 13, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 01:30:10.979233,fa110747-b83e-4ed0-a41c-22644e710f26,STOP,"{'container level': 14, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 01:34:10.979233,20970009-16ea-49da-82ce-df034bb0cd25,START,"{'container level': 14, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 01:36:10.979233,20970009-16ea-49da-82ce-df034bb0cd25,STOP,"{'container level': 15, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 01:40:10.979233,1617141b-1a1f-4989-97bc-600444ba8b86,START,"{'container level': 15, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 01:42:10.979233,1617141b-1a1f-4989-97bc-600444ba8b86,STOP,"{'container level': 16, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 01:46:10.979233,2395d725-6c0e-47ba-be0a-c8b9f3649d4a,START,"{'container level': 16, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 01:48:10.979233,2395d725-6c0e-47ba-be0a-c8b9f3649d4a,STOP,"{'container level': 17, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 01:52:10.979233,5de35b76-c8f4-49f4-90c5-acc53fcc55e5,START,"{'container level': 17, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 01:54:10.979233,5de35b76-c8f4-49f4-90c5-acc53fcc55e5,STOP,"{'container level': 18, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 01:58:10.979233,6a1f7780-cc2f-4f9e-ae65-c55a7a35316a,START,"{'container level': 18, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 02:00:10.979233,6a1f7780-cc2f-4f9e-ae65-c55a7a35316a,STOP,"{'container level': 19, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 02:04:10.979233,b719a46e-4ab4-4f8c-a015-e27d029166a9,START,"{'container level': 19, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 02:06:10.979233,b719a46e-4ab4-4f8c-a015-e27d029166a9,STOP,"{'container level': 20, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 02:10:10.979233,7f8d136d-8b7b-4e60-b7b4-a52d980154c3,START,"{'container level': 20, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 02:12:10.979233,7f8d136d-8b7b-4e60-b7b4-a52d980154c3,STOP,"{'container level': 21, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 02:16:10.979233,97c01cea-e366-4994-a5e3-fab473aa20ff,START,"{'container level': 21, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 02:18:10.979233,97c01cea-e366-4994-a5e3-fab473aa20ff,STOP,"{'container level': 22, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 02:22:10.979233,309cf52d-f374-426d-85aa-9b065775de48,START,"{'container level': 22, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 02:24:10.979233,309cf52d-f374-426d-85aa-9b065775de48,STOP,"{'container level': 23, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 02:28:10.979233,0a8a9edd-95bc-4ce4-bead-595ed442ce6b,START,"{'container level': 23, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 02:30:10.979233,0a8a9edd-95bc-4ce4-bead-595ed442ce6b,STOP,"{'container level': 24, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 02:34:10.979233,5fdd1f3c-00ca-46ee-9114-ddfb67fbc8f4,START,"{'container level': 24, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 02:36:10.979233,5fdd1f3c-00ca-46ee-9114-ddfb67fbc8f4,STOP,"{'container level': 25, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 02:40:10.979233,9fe0d644-0b05-45b8-a52a-c4196fa4946b,START,"{'container level': 25, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 02:42:10.979233,9fe0d644-0b05-45b8-a52a-c4196fa4946b,STOP,"{'container level': 26, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 02:46:10.979233,9f097a45-e4e8-459e-a0ad-48df9cb52d68,START,"{'container level': 26, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 02:48:10.979233,9f097a45-e4e8-459e-a0ad-48df9cb52d68,STOP,"{'container level': 27, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 02:52:10.979233,a400762c-9b80-4240-9f2b-a7c4e62c3d48,START,"{'container level': 27, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 02:54:10.979233,a400762c-9b80-4240-9f2b-a7c4e62c3d48,STOP,"{'container level': 28, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 02:58:10.979233,66d0c0b6-ec2a-4926-9319-c5375dc3b175,START,"{'container level': 28, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 03:00:10.979233,66d0c0b6-ec2a-4926-9319-c5375dc3b175,STOP,"{'container level': 29, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 03:04:10.979233,99e6f0e6-29d5-43e5-824f-774d5b536bf2,START,"{'container level': 29, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 03:06:10.979233,99e6f0e6-29d5-43e5-824f-774d5b536bf2,STOP,"{'container level': 30, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 03:10:10.979233,23f13543-1321-48a3-8faf-6965fc638b4f,START,"{'container level': 30, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 03:12:10.979233,23f13543-1321-48a3-8faf-6965fc638b4f,STOP,"{'container level': 31, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 03:16:10.979233,a4f59efc-ce48-4e30-8cf9-7602c7507449,START,"{'container level': 31, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 03:18:10.979233,a4f59efc-ce48-4e30-8cf9-7602c7507449,STOP,"{'container level': 32, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 03:22:10.979233,f6ffd0f1-c67c-4952-87e9-93de094c04fc,START,"{'container level': 32, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 03:24:10.979233,f6ffd0f1-c67c-4952-87e9-93de094c04fc,STOP,"{'container level': 33, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 03:28:10.979233,c6358a3a-a0a7-457c-acbe-9182765768d6,START,"{'container level': 33, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 03:30:10.979233,c6358a3a-a0a7-457c-acbe-9182765768d6,STOP,"{'container level': 34, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 03:34:10.979233,46ff6bfe-aada-4857-a59c-60eded31a96e,START,"{'container level': 34, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 03:36:10.979233,46ff6bfe-aada-4857-a59c-60eded31a96e,STOP,"{'container level': 35, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 03:40:10.979233,6ae932a2-2fba-4df4-9484-76463bf158b8,START,"{'container level': 35, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 03:42:10.979233,6ae932a2-2fba-4df4-9484-76463bf158b8,STOP,"{'container level': 36, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 03:46:10.979233,fd1edd65-d46b-4668-87f4-0b503c7ffba3,START,"{'container level': 36, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 03:48:10.979233,fd1edd65-d46b-4668-87f4-0b503c7ffba3,STOP,"{'container level': 37, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 03:52:10.979233,8c74e933-0e63-4cf5-aff8-719b34a118cb,START,"{'container level': 37, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 03:54:10.979233,8c74e933-0e63-4cf5-aff8-719b34a118cb,STOP,"{'container level': 38, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 03:58:10.979233,c50f27f7-67d2-4504-a743-72a2ba1aaed4,START,"{'container level': 38, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 04:00:10.979233,c50f27f7-67d2-4504-a743-72a2ba1aaed4,STOP,"{'container level': 39, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 04:04:10.979233,f5d508f8-2f08-4fd3-9809-a5a15aba3e7a,START,"{'container level': 39, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 04:06:10.979233,f5d508f8-2f08-4fd3-9809-a5a15aba3e7a,STOP,"{'container level': 40, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 04:10:10.979233,ff582223-34df-4c59-98fc-70b76f39472a,START,"{'container level': 40, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 04:12:10.979233,ff582223-34df-4c59-98fc-70b76f39472a,STOP,"{'container level': 41, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 04:16:10.979233,72251285-2b98-4879-ab2e-c61826ee8730,START,"{'container level': 41, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 04:18:10.979233,72251285-2b98-4879-ab2e-c61826ee8730,STOP,"{'container level': 42, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 04:22:10.979233,37d75c64-0d62-44e7-99d0-36218c107c14,START,"{'container level': 42, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 04:24:10.979233,37d75c64-0d62-44e7-99d0-36218c107c14,STOP,"{'container level': 43, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 04:28:10.979233,3dc6fd2a-d01e-46d0-a91c-97b8a8eb7977,START,"{'container level': 43, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 04:30:10.979233,3dc6fd2a-d01e-46d0-a91c-97b8a8eb7977,STOP,"{'container level': 44, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 04:34:10.979233,5d39bb4f-92c9-45d2-95d2-5eb507c33443,START,"{'container level': 44, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 04:36:10.979233,5d39bb4f-92c9-45d2-95d2-5eb507c33443,STOP,"{'container level': 45, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 04:40:10.979233,2d7521fc-2f89-4425-8fb5-277a91e0b8ad,START,"{'container level': 45, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 04:42:10.979233,2d7521fc-2f89-4425-8fb5-277a91e0b8ad,STOP,"{'container level': 46, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 04:46:10.979233,3c1cdc0f-6bb5-4903-9145-3d7f5ca1d6a7,START,"{'container level': 46, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 04:48:10.979233,3c1cdc0f-6bb5-4903-9145-3d7f5ca1d6a7,STOP,"{'container level': 47, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 04:52:10.979233,1ac92c59-cc80-4c48-8fb9-49d1136784c4,START,"{'container level': 47, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 04:54:10.979233,1ac92c59-cc80-4c48-8fb9-49d1136784c4,STOP,"{'container level': 48, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 04:58:10.979233,48665a65-74da-4ba5-8622-a2c93f76b40f,START,"{'container level': 48, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 05:00:10.979233,48665a65-74da-4ba5-8622-a2c93f76b40f,STOP,"{'container level': 49, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 05:00:10.979233,f29ddf50-9d0f-4c27-aa90-ae9878d8e563,START,"{'container level': 49, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 05:02:10.979233,f29ddf50-9d0f-4c27-aa90-ae9878d8e563,STOP,"{'container level': 50, 'geometry': <POINT (24.31 56.362)>}",{},YardBlockA
+1970-01-01 00:00:00.000000,074882d5-11bc-421b-bcd6-c7beaa872ba2,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 00:04:00.000000,074882d5-11bc-421b-bcd6-c7beaa872ba2,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 00:04:00.000000,aa01ae7f-770c-42d6-a65b-084611780a6a,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 00:08:00.000000,aa01ae7f-770c-42d6-a65b-084611780a6a,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 00:10:00.000000,03edfe64-bc4d-49e2-adc0-b59faefc5536,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 00:14:00.000000,03edfe64-bc4d-49e2-adc0-b59faefc5536,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 00:16:00.000000,436cd9f5-f1d9-49b5-a051-12fba13f7c9b,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 00:20:00.000000,436cd9f5-f1d9-49b5-a051-12fba13f7c9b,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 00:22:00.000000,7eee0ec7-ade6-4fea-9ea8-f49e8c77e50d,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 00:26:00.000000,7eee0ec7-ade6-4fea-9ea8-f49e8c77e50d,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 00:28:00.000000,25475845-b5b0-4ee4-80b9-b79016e5186d,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 00:32:00.000000,25475845-b5b0-4ee4-80b9-b79016e5186d,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 00:34:00.000000,36a068ce-783a-416d-8854-a6320ca8c860,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 00:38:00.000000,36a068ce-783a-416d-8854-a6320ca8c860,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 00:40:00.000000,a1f87411-1c33-4394-93b5-c5d40dfeeff5,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 00:44:00.000000,a1f87411-1c33-4394-93b5-c5d40dfeeff5,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 00:46:00.000000,708f6460-516f-4481-b87f-131b91522bc6,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 00:50:00.000000,708f6460-516f-4481-b87f-131b91522bc6,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 00:52:00.000000,dbdf00cf-e8a3-4faa-9776-a02f5c8ba73a,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 00:56:00.000000,dbdf00cf-e8a3-4faa-9776-a02f5c8ba73a,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 00:58:00.000000,9ce766ae-fcc5-480d-92ed-5b7b27255aed,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 01:02:00.000000,9ce766ae-fcc5-480d-92ed-5b7b27255aed,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 01:04:00.000000,7f299faa-565f-4efc-aa2b-ef868909d92d,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 01:08:00.000000,7f299faa-565f-4efc-aa2b-ef868909d92d,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 01:10:00.000000,1773047e-ac61-45fc-b84b-9a00515380e7,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 01:14:00.000000,1773047e-ac61-45fc-b84b-9a00515380e7,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 01:16:00.000000,8fc66647-9b4c-4e2c-8bc7-80089560eac5,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 01:20:00.000000,8fc66647-9b4c-4e2c-8bc7-80089560eac5,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 01:22:00.000000,b220676b-87d7-4f23-8136-3d61f7e6addc,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 01:26:00.000000,b220676b-87d7-4f23-8136-3d61f7e6addc,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 01:28:00.000000,16446a82-d0de-44e5-adb2-4913d5e141c2,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 01:32:00.000000,16446a82-d0de-44e5-adb2-4913d5e141c2,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 01:34:00.000000,99565090-8e5b-4224-a9ba-104eebd14fa2,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 01:38:00.000000,99565090-8e5b-4224-a9ba-104eebd14fa2,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 01:40:00.000000,e5118e7c-7d54-476a-b4a0-d908a11fd9d9,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 01:44:00.000000,e5118e7c-7d54-476a-b4a0-d908a11fd9d9,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 01:46:00.000000,86ac83e7-53b0-43b5-8a82-2721fceb8661,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 01:50:00.000000,86ac83e7-53b0-43b5-8a82-2721fceb8661,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 01:52:00.000000,fb99e62e-654a-4f7e-b3ca-4463d6165901,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 01:56:00.000000,fb99e62e-654a-4f7e-b3ca-4463d6165901,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 01:58:00.000000,819a2265-6a0c-4ee4-9005-3703043150d9,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 02:02:00.000000,819a2265-6a0c-4ee4-9005-3703043150d9,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 02:04:00.000000,d9c74355-af0b-4ca6-b50e-c6de208dfe74,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 02:08:00.000000,d9c74355-af0b-4ca6-b50e-c6de208dfe74,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 02:10:00.000000,d08b4f54-2707-4766-ba1f-4bc427d8f96b,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 02:14:00.000000,d08b4f54-2707-4766-ba1f-4bc427d8f96b,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 02:16:00.000000,0df6a8f1-95e6-4a6a-9be8-1432a680cfab,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 02:20:00.000000,0df6a8f1-95e6-4a6a-9be8-1432a680cfab,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 02:22:00.000000,bf56a2ed-2f74-4351-a3c6-0851c4029ad1,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 02:26:00.000000,bf56a2ed-2f74-4351-a3c6-0851c4029ad1,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 02:28:00.000000,89a61fda-7459-407b-9057-c034036dc541,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 02:32:00.000000,89a61fda-7459-407b-9057-c034036dc541,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 02:34:00.000000,24cd3be1-216c-420e-b662-12a8f7584087,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 02:38:00.000000,24cd3be1-216c-420e-b662-12a8f7584087,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 02:40:00.000000,266ab7ca-80ae-45f1-8a3f-e81c19a955b9,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 02:44:00.000000,266ab7ca-80ae-45f1-8a3f-e81c19a955b9,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 02:46:00.000000,2b38e039-3835-461b-97cf-9383b70b5ff6,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 02:50:00.000000,2b38e039-3835-461b-97cf-9383b70b5ff6,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 02:52:00.000000,a68e0926-5489-430c-bd0e-c8ab50bdeba5,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 02:56:00.000000,a68e0926-5489-430c-bd0e-c8ab50bdeba5,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 02:58:00.000000,f4354939-66d8-4c06-ab41-1a9ade0fb7f6,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 03:02:00.000000,f4354939-66d8-4c06-ab41-1a9ade0fb7f6,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 03:04:00.000000,86ffba4d-893b-42fc-8997-35d686682d94,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 03:08:00.000000,86ffba4d-893b-42fc-8997-35d686682d94,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 03:10:00.000000,df415b60-7054-4d6b-96f2-5c31a1a5ae99,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 03:14:00.000000,df415b60-7054-4d6b-96f2-5c31a1a5ae99,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 03:16:00.000000,2854822a-8dc9-47d1-a5c3-9c0e6b39c0b4,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 03:20:00.000000,2854822a-8dc9-47d1-a5c3-9c0e6b39c0b4,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 03:22:00.000000,0bcdfb85-c720-4eee-9f80-45c6cc8e62f9,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 03:26:00.000000,0bcdfb85-c720-4eee-9f80-45c6cc8e62f9,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 03:28:00.000000,75ec6b3f-1d58-4dce-8bf2-de4c728dc6e1,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 03:32:00.000000,75ec6b3f-1d58-4dce-8bf2-de4c728dc6e1,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 03:34:00.000000,788fcce1-6ac3-43b8-bff5-3e3f2a9411f4,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 03:38:00.000000,788fcce1-6ac3-43b8-bff5-3e3f2a9411f4,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 03:40:00.000000,d016d3c7-b994-41da-baad-a993f3a0195c,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 03:44:00.000000,d016d3c7-b994-41da-baad-a993f3a0195c,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 03:46:00.000000,7f4462b1-1a84-4d51-a239-e0636cf85d68,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 03:50:00.000000,7f4462b1-1a84-4d51-a239-e0636cf85d68,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 03:52:00.000000,5323fdd3-d21d-4691-bb18-2ea973a06fdf,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 03:56:00.000000,5323fdd3-d21d-4691-bb18-2ea973a06fdf,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 03:58:00.000000,0af9d34e-d51c-485e-ab1a-7720453c90be,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 04:02:00.000000,0af9d34e-d51c-485e-ab1a-7720453c90be,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 04:04:00.000000,444635c6-c37d-4c5d-b4d2-a778a0733bb6,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 04:08:00.000000,444635c6-c37d-4c5d-b4d2-a778a0733bb6,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 04:10:00.000000,02974cdc-fbd5-4ffe-9351-7d31f4578ec5,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 04:14:00.000000,02974cdc-fbd5-4ffe-9351-7d31f4578ec5,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 04:16:00.000000,e1ec6d8b-912e-4661-a708-a4a7e253ba00,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 04:20:00.000000,e1ec6d8b-912e-4661-a708-a4a7e253ba00,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 04:22:00.000000,8b87b1f3-2289-4972-94b7-1b3e8f10ba08,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 04:26:00.000000,8b87b1f3-2289-4972-94b7-1b3e8f10ba08,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 04:28:00.000000,7c2459dc-fc27-4ec3-beac-f3ee43ff4531,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 04:32:00.000000,7c2459dc-fc27-4ec3-beac-f3ee43ff4531,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 04:34:00.000000,9fb17694-256f-46c0-9945-86607356919a,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 04:38:00.000000,9fb17694-256f-46c0-9945-86607356919a,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 04:40:00.000000,58bc5adf-8d60-4f78-90a1-852e032ffd92,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 04:44:00.000000,58bc5adf-8d60-4f78-90a1-852e032ffd92,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 04:46:00.000000,f0e876de-de38-47b0-bda4-094a8912ff75,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 04:50:00.000000,f0e876de-de38-47b0-bda4-094a8912ff75,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 04:52:00.000000,fb579b0b-d001-475a-ba94-a1c23cd54b84,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 04:56:00.000000,fb579b0b-d001-475a-ba94-a1c23cd54b84,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},qc_01
+1970-01-01 00:08:00.000000,01bfb014-4eb1-4fe3-a24d-29295f980206,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 00:10:00.000000,01bfb014-4eb1-4fe3-a24d-29295f980206,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 00:10:00.000000,5cea9a27-646d-4486-b9ec-db2c2000e920,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 00:10:10.979233,5cea9a27-646d-4486-b9ec-db2c2000e920,STOP,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 00:10:10.979233,de0ea793-fd79-447c-a2e8-056f047bf701,START,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 00:12:10.979233,de0ea793-fd79-447c-a2e8-056f047bf701,STOP,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 00:12:10.979233,cd0c0731-06c7-4384-92e5-2308c94f1a22,START,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 00:12:21.958467,cd0c0731-06c7-4384-92e5-2308c94f1a22,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 00:26:00.000000,7c77bf05-3976-4b7f-b525-3c4240e90c05,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 00:28:00.000000,7c77bf05-3976-4b7f-b525-3c4240e90c05,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 00:28:00.000000,9e598d52-6b3f-4ebe-8893-18c9c42663e6,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 00:28:10.979233,9e598d52-6b3f-4ebe-8893-18c9c42663e6,STOP,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 00:28:10.979233,74485c63-b21b-4625-b6be-4fb5ae8b6f44,START,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 00:30:10.979233,74485c63-b21b-4625-b6be-4fb5ae8b6f44,STOP,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 00:30:10.979233,a9cfb5e3-9c8a-4b19-8abd-7b032ac00de5,START,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 00:30:21.958467,a9cfb5e3-9c8a-4b19-8abd-7b032ac00de5,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 00:44:00.000000,0fa48931-ff0d-4e39-8d8c-ff5498b2e8e7,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 00:46:00.000000,0fa48931-ff0d-4e39-8d8c-ff5498b2e8e7,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 00:46:00.000000,5be86847-fddc-49fe-a0ea-e18a39d0455a,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 00:46:10.979233,5be86847-fddc-49fe-a0ea-e18a39d0455a,STOP,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 00:46:10.979233,14d303f1-fe52-4cfa-921f-23754260e0b1,START,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 00:48:10.979233,14d303f1-fe52-4cfa-921f-23754260e0b1,STOP,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 00:48:10.979233,1e4a3a4e-f712-43a7-810b-506b56cb3310,START,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 00:48:21.958467,1e4a3a4e-f712-43a7-810b-506b56cb3310,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 01:02:00.000000,2a7a8c9b-e425-4729-8030-838a6282cc74,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 01:04:00.000000,2a7a8c9b-e425-4729-8030-838a6282cc74,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 01:04:00.000000,ae0b7e29-fac1-418e-96c2-278739e336eb,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 01:04:10.979233,ae0b7e29-fac1-418e-96c2-278739e336eb,STOP,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 01:04:10.979233,fd7e099b-5447-4746-9347-bff8b8d302d4,START,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 01:06:10.979233,fd7e099b-5447-4746-9347-bff8b8d302d4,STOP,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 01:06:10.979233,6b99ff3c-0059-4d8e-b396-aec6fa8b624e,START,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 01:06:21.958467,6b99ff3c-0059-4d8e-b396-aec6fa8b624e,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 01:20:00.000000,5cbeadb9-5485-42c3-ae18-df100825ab43,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 01:22:00.000000,5cbeadb9-5485-42c3-ae18-df100825ab43,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 01:22:00.000000,8f66697c-38fd-4f24-9157-d31ef1a347fd,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 01:22:10.979233,8f66697c-38fd-4f24-9157-d31ef1a347fd,STOP,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 01:22:10.979233,e2bbe74c-04ee-429d-b8fe-4f188aa0a20f,START,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 01:24:10.979233,e2bbe74c-04ee-429d-b8fe-4f188aa0a20f,STOP,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 01:24:10.979233,fa8f4d68-9a1a-4001-b90a-7f5eb87ae1af,START,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 01:24:21.958467,fa8f4d68-9a1a-4001-b90a-7f5eb87ae1af,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 01:38:00.000000,47400ef1-917c-4e62-a21a-ea9ab428f6b2,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 01:40:00.000000,47400ef1-917c-4e62-a21a-ea9ab428f6b2,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 01:40:00.000000,42056d83-6589-48af-91c4-e0f0e8caf77d,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 01:40:10.979233,42056d83-6589-48af-91c4-e0f0e8caf77d,STOP,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 01:40:10.979233,1617141b-1a1f-4989-97bc-600444ba8b86,START,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 01:42:10.979233,1617141b-1a1f-4989-97bc-600444ba8b86,STOP,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 01:42:10.979233,4b36f957-d858-4e05-bdcd-e7c0a5f8857a,START,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 01:42:21.958467,4b36f957-d858-4e05-bdcd-e7c0a5f8857a,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 01:56:00.000000,6a55c427-f3f3-4338-ad2a-eab55465e7bc,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 01:58:00.000000,6a55c427-f3f3-4338-ad2a-eab55465e7bc,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 01:58:00.000000,653e8884-0e85-4378-a4ec-05ec9a6be9b5,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 01:58:10.979233,653e8884-0e85-4378-a4ec-05ec9a6be9b5,STOP,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 01:58:10.979233,6a1f7780-cc2f-4f9e-ae65-c55a7a35316a,START,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 02:00:10.979233,6a1f7780-cc2f-4f9e-ae65-c55a7a35316a,STOP,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 02:00:10.979233,b14b7bce-3fbe-4543-a124-318aa659d3ee,START,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 02:00:21.958467,b14b7bce-3fbe-4543-a124-318aa659d3ee,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 02:14:00.000000,1c4aa033-4cbf-41cd-a46b-17540912599b,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 02:16:00.000000,1c4aa033-4cbf-41cd-a46b-17540912599b,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 02:16:00.000000,b917e03d-5166-48ee-a095-a0a8ae904535,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 02:16:10.979233,b917e03d-5166-48ee-a095-a0a8ae904535,STOP,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 02:16:10.979233,97c01cea-e366-4994-a5e3-fab473aa20ff,START,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 02:18:10.979233,97c01cea-e366-4994-a5e3-fab473aa20ff,STOP,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 02:18:10.979233,d6dc3d13-d135-491b-a43d-cbe589e9864f,START,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 02:18:21.958467,d6dc3d13-d135-491b-a43d-cbe589e9864f,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 02:32:00.000000,e37f7dfc-29ce-4142-852f-e6d5bd287b98,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 02:34:00.000000,e37f7dfc-29ce-4142-852f-e6d5bd287b98,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 02:34:00.000000,8456cada-0c7d-4d36-ba97-e66ce2f22e67,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 02:34:10.979233,8456cada-0c7d-4d36-ba97-e66ce2f22e67,STOP,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 02:34:10.979233,5fdd1f3c-00ca-46ee-9114-ddfb67fbc8f4,START,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 02:36:10.979233,5fdd1f3c-00ca-46ee-9114-ddfb67fbc8f4,STOP,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 02:36:10.979233,054e7ba4-c5bd-43f2-b523-696aab79359a,START,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 02:36:21.958467,054e7ba4-c5bd-43f2-b523-696aab79359a,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 02:50:00.000000,3393090e-0d4f-43bd-b495-ae6f694b8284,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 02:52:00.000000,3393090e-0d4f-43bd-b495-ae6f694b8284,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 02:52:00.000000,bfde5ee5-f5f0-447e-b526-c17e5c74f762,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 02:52:10.979233,bfde5ee5-f5f0-447e-b526-c17e5c74f762,STOP,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 02:52:10.979233,a400762c-9b80-4240-9f2b-a7c4e62c3d48,START,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 02:54:10.979233,a400762c-9b80-4240-9f2b-a7c4e62c3d48,STOP,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 02:54:10.979233,c85a27b3-d67f-4343-812d-08b72dc2b474,START,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 02:54:21.958467,c85a27b3-d67f-4343-812d-08b72dc2b474,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 03:08:00.000000,3e4b7c0a-57af-4116-8b5c-621d780469e2,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 03:10:00.000000,3e4b7c0a-57af-4116-8b5c-621d780469e2,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 03:10:00.000000,0a178822-3e0f-496d-9445-cf5fde87eee3,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 03:10:10.979233,0a178822-3e0f-496d-9445-cf5fde87eee3,STOP,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 03:10:10.979233,23f13543-1321-48a3-8faf-6965fc638b4f,START,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 03:12:10.979233,23f13543-1321-48a3-8faf-6965fc638b4f,STOP,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 03:12:10.979233,b2bf1801-b658-4c71-91df-1bac1fdb6139,START,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 03:12:21.958467,b2bf1801-b658-4c71-91df-1bac1fdb6139,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 03:26:00.000000,56b1f9de-8f25-4f62-b1c2-51d043a7886c,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 03:28:00.000000,56b1f9de-8f25-4f62-b1c2-51d043a7886c,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 03:28:00.000000,3fabbe3d-b4b0-4384-964c-4e508a0c50f0,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 03:28:10.979233,3fabbe3d-b4b0-4384-964c-4e508a0c50f0,STOP,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 03:28:10.979233,c6358a3a-a0a7-457c-acbe-9182765768d6,START,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 03:30:10.979233,c6358a3a-a0a7-457c-acbe-9182765768d6,STOP,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 03:30:10.979233,176efc2d-ad81-4763-8bd2-0efb53e40283,START,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 03:30:21.958467,176efc2d-ad81-4763-8bd2-0efb53e40283,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 03:44:00.000000,fcffbd33-77f1-430b-bfdb-ee8f347fba2b,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 03:46:00.000000,fcffbd33-77f1-430b-bfdb-ee8f347fba2b,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 03:46:00.000000,a44b4b93-d3bb-463a-9343-55aca8294769,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 03:46:10.979233,a44b4b93-d3bb-463a-9343-55aca8294769,STOP,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 03:46:10.979233,fd1edd65-d46b-4668-87f4-0b503c7ffba3,START,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 03:48:10.979233,fd1edd65-d46b-4668-87f4-0b503c7ffba3,STOP,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 03:48:10.979233,0ff45cbf-841b-47f1-903a-f90c91e01462,START,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 03:48:21.958467,0ff45cbf-841b-47f1-903a-f90c91e01462,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 04:02:00.000000,fa6af52f-d0fb-4961-8611-e6f8470de195,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 04:04:00.000000,fa6af52f-d0fb-4961-8611-e6f8470de195,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 04:04:00.000000,34753991-d8cd-4f65-a3a0-fb5d7b4e763c,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 04:04:10.979233,34753991-d8cd-4f65-a3a0-fb5d7b4e763c,STOP,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 04:04:10.979233,f5d508f8-2f08-4fd3-9809-a5a15aba3e7a,START,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 04:06:10.979233,f5d508f8-2f08-4fd3-9809-a5a15aba3e7a,STOP,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 04:06:10.979233,a3390bde-a4c7-4b60-b57f-3064378ffb37,START,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 04:06:21.958467,a3390bde-a4c7-4b60-b57f-3064378ffb37,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 04:20:00.000000,d856a347-4a02-4190-a27c-65a724ef115f,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 04:22:00.000000,d856a347-4a02-4190-a27c-65a724ef115f,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 04:22:00.000000,c31d2178-7d7f-4eb5-a9e4-eddff500bc2d,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 04:22:10.979233,c31d2178-7d7f-4eb5-a9e4-eddff500bc2d,STOP,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 04:22:10.979233,37d75c64-0d62-44e7-99d0-36218c107c14,START,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 04:24:10.979233,37d75c64-0d62-44e7-99d0-36218c107c14,STOP,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 04:24:10.979233,41d88c5a-43df-419f-b25b-eb87a9da1763,START,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 04:24:21.958467,41d88c5a-43df-419f-b25b-eb87a9da1763,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 04:38:00.000000,7f9a8bf4-a5a9-4288-9924-5411b9c77ab7,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 04:40:00.000000,7f9a8bf4-a5a9-4288-9924-5411b9c77ab7,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 04:40:00.000000,10169520-b641-4088-901a-00d519438956,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 04:40:10.979233,10169520-b641-4088-901a-00d519438956,STOP,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 04:40:10.979233,2d7521fc-2f89-4425-8fb5-277a91e0b8ad,START,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 04:42:10.979233,2d7521fc-2f89-4425-8fb5-277a91e0b8ad,STOP,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 04:42:10.979233,63069c90-d752-4edf-af32-ec87181e7398,START,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 04:42:21.958467,63069c90-d752-4edf-af32-ec87181e7398,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 04:56:00.000000,a2c10968-f7ac-4266-abc2-57d57a295f8e,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 04:58:00.000000,a2c10968-f7ac-4266-abc2-57d57a295f8e,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 04:58:00.000000,c282e7c7-a92d-4846-8a8c-fc94bb1bb20c,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 04:58:10.979233,c282e7c7-a92d-4846-8a8c-fc94bb1bb20c,STOP,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 04:58:10.979233,48665a65-74da-4ba5-8622-a2c93f76b40f,START,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 05:00:10.979233,48665a65-74da-4ba5-8622-a2c93f76b40f,STOP,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 05:00:10.979233,863bc42c-1dc9-4315-99d0-1a76b88c452f,START,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_01
+1970-01-01 05:00:21.958467,863bc42c-1dc9-4315-99d0-1a76b88c452f,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_01
+1970-01-01 00:14:00.000000,170e010c-925b-49e4-814f-a283c661ff57,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 00:16:00.000000,170e010c-925b-49e4-814f-a283c661ff57,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 00:16:00.000000,48112729-a723-47a7-b7b1-2ca7922b8f33,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 00:16:10.979233,48112729-a723-47a7-b7b1-2ca7922b8f33,STOP,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 00:16:10.979233,6717708a-f53e-4d7f-ab4d-ef5aa96f052d,START,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 00:18:10.979233,6717708a-f53e-4d7f-ab4d-ef5aa96f052d,STOP,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 00:18:10.979233,bafd50a5-8fd4-4216-a7c2-3cd827adb0ec,START,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 00:18:21.958467,bafd50a5-8fd4-4216-a7c2-3cd827adb0ec,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 00:32:00.000000,9ff8082f-3a92-41ae-ab22-e8bd90c69ae7,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 00:34:00.000000,9ff8082f-3a92-41ae-ab22-e8bd90c69ae7,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 00:34:00.000000,228bfaad-1641-4721-9a85-b9fc2d5c16a0,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 00:34:10.979233,228bfaad-1641-4721-9a85-b9fc2d5c16a0,STOP,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 00:34:10.979233,cc101e68-a9db-40c8-b596-fd405dc73313,START,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 00:36:10.979233,cc101e68-a9db-40c8-b596-fd405dc73313,STOP,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 00:36:10.979233,b7e9858b-1538-4895-b04e-71def93a2763,START,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 00:36:21.958467,b7e9858b-1538-4895-b04e-71def93a2763,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 00:50:00.000000,0cd79a4b-f49e-4f50-919f-4ed398d12a71,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 00:52:00.000000,0cd79a4b-f49e-4f50-919f-4ed398d12a71,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 00:52:00.000000,9c741fe9-4756-43bf-838e-e4d63100bb87,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 00:52:10.979233,9c741fe9-4756-43bf-838e-e4d63100bb87,STOP,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 00:52:10.979233,6f4ec8f6-1b8c-4bb4-a35c-b272a2862552,START,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 00:54:10.979233,6f4ec8f6-1b8c-4bb4-a35c-b272a2862552,STOP,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 00:54:10.979233,46f73261-150e-414a-8aea-73d362730af6,START,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 00:54:21.958467,46f73261-150e-414a-8aea-73d362730af6,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 01:08:00.000000,ad6027d4-3151-4bd3-bd63-eb9d396ce5ec,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 01:10:00.000000,ad6027d4-3151-4bd3-bd63-eb9d396ce5ec,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 01:10:00.000000,23257630-aa8b-4634-af0a-0f65e5d6ffd0,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 01:10:10.979233,23257630-aa8b-4634-af0a-0f65e5d6ffd0,STOP,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 01:10:10.979233,a0be7513-2481-41c0-9638-cb133b1a3fd8,START,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 01:12:10.979233,a0be7513-2481-41c0-9638-cb133b1a3fd8,STOP,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 01:12:10.979233,93c25eb4-370b-4600-b22c-fecb08f67b79,START,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 01:12:21.958467,93c25eb4-370b-4600-b22c-fecb08f67b79,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 01:26:00.000000,3bcf9280-81a2-4b54-9d7c-eb5a6cf4ad70,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 01:28:00.000000,3bcf9280-81a2-4b54-9d7c-eb5a6cf4ad70,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 01:28:00.000000,a2ad08e0-387b-4736-b15a-df329814b095,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 01:28:10.979233,a2ad08e0-387b-4736-b15a-df329814b095,STOP,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 01:28:10.979233,fa110747-b83e-4ed0-a41c-22644e710f26,START,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 01:30:10.979233,fa110747-b83e-4ed0-a41c-22644e710f26,STOP,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 01:30:10.979233,35e2db2d-6dac-47ab-a71f-1d510edf0529,START,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 01:30:21.958467,35e2db2d-6dac-47ab-a71f-1d510edf0529,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 01:44:00.000000,c7415314-e997-4779-a8d5-2f507c0efc15,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 01:46:00.000000,c7415314-e997-4779-a8d5-2f507c0efc15,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 01:46:00.000000,229aacc6-99f8-4788-894f-17292accd8b7,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 01:46:10.979233,229aacc6-99f8-4788-894f-17292accd8b7,STOP,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 01:46:10.979233,2395d725-6c0e-47ba-be0a-c8b9f3649d4a,START,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 01:48:10.979233,2395d725-6c0e-47ba-be0a-c8b9f3649d4a,STOP,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 01:48:10.979233,80a4e657-6bd9-4f9d-9e70-0eb81af3ff8f,START,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 01:48:21.958467,80a4e657-6bd9-4f9d-9e70-0eb81af3ff8f,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 02:02:00.000000,a3ad6ed9-4849-49b3-864f-f8e00b9e32d5,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 02:04:00.000000,a3ad6ed9-4849-49b3-864f-f8e00b9e32d5,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 02:04:00.000000,b74b3f2b-f365-4ed3-8586-68412b0eeb6c,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 02:04:10.979233,b74b3f2b-f365-4ed3-8586-68412b0eeb6c,STOP,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 02:04:10.979233,b719a46e-4ab4-4f8c-a015-e27d029166a9,START,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 02:06:10.979233,b719a46e-4ab4-4f8c-a015-e27d029166a9,STOP,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 02:06:10.979233,133597c9-9d7e-40ba-b833-0034a284c576,START,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 02:06:21.958467,133597c9-9d7e-40ba-b833-0034a284c576,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 02:20:00.000000,013a78bd-c844-486a-953a-f075b6a4238b,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 02:22:00.000000,013a78bd-c844-486a-953a-f075b6a4238b,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 02:22:00.000000,5f3d1f13-f601-4403-b2dd-76e04e108046,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 02:22:10.979233,5f3d1f13-f601-4403-b2dd-76e04e108046,STOP,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 02:22:10.979233,309cf52d-f374-426d-85aa-9b065775de48,START,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 02:24:10.979233,309cf52d-f374-426d-85aa-9b065775de48,STOP,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 02:24:10.979233,706114ed-7afc-456a-aa62-ed432ddb6967,START,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 02:24:21.958467,706114ed-7afc-456a-aa62-ed432ddb6967,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 02:38:00.000000,a19d81c1-9c7c-43c1-a33b-2307cbbcccc1,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 02:40:00.000000,a19d81c1-9c7c-43c1-a33b-2307cbbcccc1,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 02:40:00.000000,37d5db5e-9078-4bbd-98cc-002ffc4d8e77,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 02:40:10.979233,37d5db5e-9078-4bbd-98cc-002ffc4d8e77,STOP,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 02:40:10.979233,9fe0d644-0b05-45b8-a52a-c4196fa4946b,START,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 02:42:10.979233,9fe0d644-0b05-45b8-a52a-c4196fa4946b,STOP,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 02:42:10.979233,275d267b-9b98-4604-994c-c174efc3115a,START,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 02:42:21.958467,275d267b-9b98-4604-994c-c174efc3115a,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 02:56:00.000000,c663ca9b-a30d-4b67-b239-5a298bca3044,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 02:58:00.000000,c663ca9b-a30d-4b67-b239-5a298bca3044,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 02:58:00.000000,e8fd7c0f-f1b2-4feb-a599-06368b8adaf6,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 02:58:10.979233,e8fd7c0f-f1b2-4feb-a599-06368b8adaf6,STOP,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 02:58:10.979233,66d0c0b6-ec2a-4926-9319-c5375dc3b175,START,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 03:00:10.979233,66d0c0b6-ec2a-4926-9319-c5375dc3b175,STOP,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 03:00:10.979233,90ac5c61-2b91-43a8-8f9c-25b6e8de0a62,START,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 03:00:21.958467,90ac5c61-2b91-43a8-8f9c-25b6e8de0a62,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 03:14:00.000000,6d020ca0-0d69-486c-a7f3-ee52d5543181,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 03:16:00.000000,6d020ca0-0d69-486c-a7f3-ee52d5543181,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 03:16:00.000000,bd7fc45e-b9a4-43a8-8b6a-19baa80e9e1a,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 03:16:10.979233,bd7fc45e-b9a4-43a8-8b6a-19baa80e9e1a,STOP,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 03:16:10.979233,a4f59efc-ce48-4e30-8cf9-7602c7507449,START,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 03:18:10.979233,a4f59efc-ce48-4e30-8cf9-7602c7507449,STOP,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 03:18:10.979233,2707718e-75d9-4229-a925-f0cf29b4a3e7,START,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 03:18:21.958467,2707718e-75d9-4229-a925-f0cf29b4a3e7,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 03:32:00.000000,b5476a28-efa1-41ae-bc36-cf142da14020,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 03:34:00.000000,b5476a28-efa1-41ae-bc36-cf142da14020,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 03:34:00.000000,eed33aa3-6178-4419-8655-a9769529c70f,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 03:34:10.979233,eed33aa3-6178-4419-8655-a9769529c70f,STOP,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 03:34:10.979233,46ff6bfe-aada-4857-a59c-60eded31a96e,START,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 03:36:10.979233,46ff6bfe-aada-4857-a59c-60eded31a96e,STOP,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 03:36:10.979233,e53cdfa4-43ef-48c1-92f2-8e320ae7cc44,START,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 03:36:21.958467,e53cdfa4-43ef-48c1-92f2-8e320ae7cc44,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 03:50:00.000000,b6752478-1eac-4559-bf4b-6b9c313b4421,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 03:52:00.000000,b6752478-1eac-4559-bf4b-6b9c313b4421,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 03:52:00.000000,05b8c0c9-5656-49f9-bec0-cf83b8a2dcc1,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 03:52:10.979233,05b8c0c9-5656-49f9-bec0-cf83b8a2dcc1,STOP,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 03:52:10.979233,8c74e933-0e63-4cf5-aff8-719b34a118cb,START,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 03:54:10.979233,8c74e933-0e63-4cf5-aff8-719b34a118cb,STOP,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 03:54:10.979233,99cd25d2-13e9-442e-9f9b-2e56f7a15aba,START,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 03:54:21.958467,99cd25d2-13e9-442e-9f9b-2e56f7a15aba,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 04:08:00.000000,648297ce-d72b-4594-b1b3-3ff9b129e18f,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 04:10:00.000000,648297ce-d72b-4594-b1b3-3ff9b129e18f,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 04:10:00.000000,775c9364-a4ac-4603-adba-14b4aa10b1cf,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 04:10:10.979233,775c9364-a4ac-4603-adba-14b4aa10b1cf,STOP,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 04:10:10.979233,ff582223-34df-4c59-98fc-70b76f39472a,START,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 04:12:10.979233,ff582223-34df-4c59-98fc-70b76f39472a,STOP,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 04:12:10.979233,12f0d05b-4d5f-432a-9a25-2f94196b700e,START,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 04:12:21.958467,12f0d05b-4d5f-432a-9a25-2f94196b700e,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 04:26:00.000000,a7a4fd3a-f578-4002-97cd-95a97c310c4c,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 04:28:00.000000,a7a4fd3a-f578-4002-97cd-95a97c310c4c,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 04:28:00.000000,1f4dc6d6-9b05-4ca3-9642-a10788e0a2de,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 04:28:10.979233,1f4dc6d6-9b05-4ca3-9642-a10788e0a2de,STOP,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 04:28:10.979233,3dc6fd2a-d01e-46d0-a91c-97b8a8eb7977,START,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 04:30:10.979233,3dc6fd2a-d01e-46d0-a91c-97b8a8eb7977,STOP,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 04:30:10.979233,b3d8fe07-bb18-4983-aff8-3e53edc794c2,START,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 04:30:21.958467,b3d8fe07-bb18-4983-aff8-3e53edc794c2,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 04:44:00.000000,98c6f202-1aa1-49d0-94e5-a808b485a5ef,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 04:46:00.000000,98c6f202-1aa1-49d0-94e5-a808b485a5ef,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 04:46:00.000000,08db9abd-22db-4b81-a0cc-b01d4e90e411,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 04:46:10.979233,08db9abd-22db-4b81-a0cc-b01d4e90e411,STOP,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 04:46:10.979233,3c1cdc0f-6bb5-4903-9145-3d7f5ca1d6a7,START,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 04:48:10.979233,3c1cdc0f-6bb5-4903-9145-3d7f5ca1d6a7,STOP,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 04:48:10.979233,7cd8d7b8-2f81-4c21-8f30-c5d219266b23,START,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 04:48:21.958467,7cd8d7b8-2f81-4c21-8f30-c5d219266b23,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 04:58:00.000000,1301a52f-e390-47af-a540-58a9562bf9ff,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 05:00:00.000000,1301a52f-e390-47af-a540-58a9562bf9ff,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 05:00:00.000000,157e115e-7bcb-4998-9ab9-35b160965a85,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 05:00:10.979233,157e115e-7bcb-4998-9ab9-35b160965a85,STOP,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 05:00:10.979233,f29ddf50-9d0f-4c27-aa90-ae9878d8e563,START,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 05:02:10.979233,f29ddf50-9d0f-4c27-aa90-ae9878d8e563,STOP,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 05:02:10.979233,e3c7278d-f94c-458b-8b7c-024cf4957353,START,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_02
+1970-01-01 05:02:21.958467,e3c7278d-f94c-458b-8b7c-024cf4957353,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_02
+1970-01-01 00:20:00.000000,cd9739f1-2951-41d3-8994-5251a1c53c64,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 00:22:00.000000,cd9739f1-2951-41d3-8994-5251a1c53c64,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 00:22:00.000000,23e69c8d-6ce4-468f-8abe-d58e0e161b7e,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 00:22:10.979233,23e69c8d-6ce4-468f-8abe-d58e0e161b7e,STOP,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 00:22:10.979233,249384c9-a451-4d16-8c89-cd4bd1a9f872,START,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 00:24:10.979233,249384c9-a451-4d16-8c89-cd4bd1a9f872,STOP,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 00:24:10.979233,1833279d-04e0-4e3f-a584-e20f9dd7e074,START,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 00:24:21.958467,1833279d-04e0-4e3f-a584-e20f9dd7e074,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 00:38:00.000000,50dc4905-16b2-4cf3-895c-64778a57865e,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 00:40:00.000000,50dc4905-16b2-4cf3-895c-64778a57865e,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 00:40:00.000000,9da5d4af-aa32-4b83-a50d-f197498a33e2,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 00:40:10.979233,9da5d4af-aa32-4b83-a50d-f197498a33e2,STOP,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 00:40:10.979233,cfa08f96-e4fe-49c1-8cb4-606743dd0db9,START,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 00:42:10.979233,cfa08f96-e4fe-49c1-8cb4-606743dd0db9,STOP,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 00:42:10.979233,160e7931-0240-406c-a648-0f500215b565,START,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 00:42:21.958467,160e7931-0240-406c-a648-0f500215b565,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 00:56:00.000000,c4b07252-bf09-4771-a9b1-f6cd68d203c2,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 00:58:00.000000,c4b07252-bf09-4771-a9b1-f6cd68d203c2,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 00:58:00.000000,ccf9b8c8-e0a1-4feb-ba9b-4aa2d70c4cf7,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 00:58:10.979233,ccf9b8c8-e0a1-4feb-ba9b-4aa2d70c4cf7,STOP,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 00:58:10.979233,0dde57ef-7c8a-4fa2-ba2d-f43f0c7c8860,START,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 01:00:10.979233,0dde57ef-7c8a-4fa2-ba2d-f43f0c7c8860,STOP,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 01:00:10.979233,50a09cb8-628d-43db-addc-b450dbb7c59e,START,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 01:00:21.958467,50a09cb8-628d-43db-addc-b450dbb7c59e,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 01:14:00.000000,f4f382f4-f4ba-415f-a1bf-8ff106232965,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 01:16:00.000000,f4f382f4-f4ba-415f-a1bf-8ff106232965,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 01:16:00.000000,39772446-fbec-462e-9576-1a7b859f1034,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 01:16:10.979233,39772446-fbec-462e-9576-1a7b859f1034,STOP,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 01:16:10.979233,4fc0e19e-ee8b-46dc-9d88-b3c54b846769,START,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 01:18:10.979233,4fc0e19e-ee8b-46dc-9d88-b3c54b846769,STOP,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 01:18:10.979233,0741920d-3575-454d-9a61-76e9c659ca0a,START,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 01:18:21.958467,0741920d-3575-454d-9a61-76e9c659ca0a,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 01:32:00.000000,5698069e-1773-44f6-80c0-c81324771a2c,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 01:34:00.000000,5698069e-1773-44f6-80c0-c81324771a2c,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 01:34:00.000000,10126a6f-d199-425b-a63a-f6810f1eba77,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 01:34:10.979233,10126a6f-d199-425b-a63a-f6810f1eba77,STOP,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 01:34:10.979233,20970009-16ea-49da-82ce-df034bb0cd25,START,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 01:36:10.979233,20970009-16ea-49da-82ce-df034bb0cd25,STOP,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 01:36:10.979233,e2c5c9cf-c3ba-4112-b4b5-2f2e200b3ecf,START,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 01:36:21.958467,e2c5c9cf-c3ba-4112-b4b5-2f2e200b3ecf,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 01:50:00.000000,224e0ba4-37b2-4cf7-8740-1cfde7666749,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 01:52:00.000000,224e0ba4-37b2-4cf7-8740-1cfde7666749,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 01:52:00.000000,e054407f-6a3e-4679-9bd2-8d4ecad0b2ce,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 01:52:10.979233,e054407f-6a3e-4679-9bd2-8d4ecad0b2ce,STOP,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 01:52:10.979233,5de35b76-c8f4-49f4-90c5-acc53fcc55e5,START,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 01:54:10.979233,5de35b76-c8f4-49f4-90c5-acc53fcc55e5,STOP,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 01:54:10.979233,8dd47675-b1bd-4118-80c9-d4a118cbb022,START,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 01:54:21.958467,8dd47675-b1bd-4118-80c9-d4a118cbb022,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 02:08:00.000000,5981992e-a681-412e-bd03-ec08b7ce234b,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 02:10:00.000000,5981992e-a681-412e-bd03-ec08b7ce234b,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 02:10:00.000000,29be7f1d-18e8-4dd2-b049-9ea418ddc601,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 02:10:10.979233,29be7f1d-18e8-4dd2-b049-9ea418ddc601,STOP,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 02:10:10.979233,7f8d136d-8b7b-4e60-b7b4-a52d980154c3,START,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 02:12:10.979233,7f8d136d-8b7b-4e60-b7b4-a52d980154c3,STOP,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 02:12:10.979233,281b0ec7-5263-433b-b93d-c867f19cad7f,START,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 02:12:21.958467,281b0ec7-5263-433b-b93d-c867f19cad7f,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 02:26:00.000000,3b70215b-862c-4767-98f3-a8d56037610c,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 02:28:00.000000,3b70215b-862c-4767-98f3-a8d56037610c,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 02:28:00.000000,32939d1c-83ce-4efd-8728-65625792e748,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 02:28:10.979233,32939d1c-83ce-4efd-8728-65625792e748,STOP,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 02:28:10.979233,0a8a9edd-95bc-4ce4-bead-595ed442ce6b,START,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 02:30:10.979233,0a8a9edd-95bc-4ce4-bead-595ed442ce6b,STOP,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 02:30:10.979233,a6f4a680-fcda-496b-92f6-80716d763179,START,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 02:30:21.958467,a6f4a680-fcda-496b-92f6-80716d763179,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 02:44:00.000000,cecfb290-090e-4589-af0d-a263cf112ab8,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 02:46:00.000000,cecfb290-090e-4589-af0d-a263cf112ab8,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 02:46:00.000000,eccac0c8-ffd1-4018-944b-e1818f0fabcf,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 02:46:10.979233,eccac0c8-ffd1-4018-944b-e1818f0fabcf,STOP,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 02:46:10.979233,9f097a45-e4e8-459e-a0ad-48df9cb52d68,START,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 02:48:10.979233,9f097a45-e4e8-459e-a0ad-48df9cb52d68,STOP,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 02:48:10.979233,3b804803-94d3-4c17-ac9f-fa19122e23d7,START,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 02:48:21.958467,3b804803-94d3-4c17-ac9f-fa19122e23d7,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 03:02:00.000000,b0c1cd92-6526-457a-98a4-de57f083d1bf,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 03:04:00.000000,b0c1cd92-6526-457a-98a4-de57f083d1bf,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 03:04:00.000000,3ad4d87e-5413-42b3-aaa1-5b452c2baf2e,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 03:04:10.979233,3ad4d87e-5413-42b3-aaa1-5b452c2baf2e,STOP,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 03:04:10.979233,99e6f0e6-29d5-43e5-824f-774d5b536bf2,START,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 03:06:10.979233,99e6f0e6-29d5-43e5-824f-774d5b536bf2,STOP,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 03:06:10.979233,3fd7ae95-f1d5-4ce9-a9c9-ddfe41dfbc1d,START,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 03:06:21.958467,3fd7ae95-f1d5-4ce9-a9c9-ddfe41dfbc1d,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 03:20:00.000000,07581c38-8269-419a-8889-b35a0d1c7779,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 03:22:00.000000,07581c38-8269-419a-8889-b35a0d1c7779,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 03:22:00.000000,9d8ef676-22c5-4437-8cca-2cb5df2a69f3,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 03:22:10.979233,9d8ef676-22c5-4437-8cca-2cb5df2a69f3,STOP,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 03:22:10.979233,f6ffd0f1-c67c-4952-87e9-93de094c04fc,START,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 03:24:10.979233,f6ffd0f1-c67c-4952-87e9-93de094c04fc,STOP,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 03:24:10.979233,e2329698-23b7-4b74-ad6e-cb0f1eba81e0,START,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 03:24:21.958467,e2329698-23b7-4b74-ad6e-cb0f1eba81e0,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 03:38:00.000000,8cd70d2b-d42e-4835-bd09-6aa384fac2ed,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 03:40:00.000000,8cd70d2b-d42e-4835-bd09-6aa384fac2ed,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 03:40:00.000000,d71b3d5d-23f2-49b6-b3c5-ffd9fcc7d87a,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 03:40:10.979233,d71b3d5d-23f2-49b6-b3c5-ffd9fcc7d87a,STOP,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 03:40:10.979233,6ae932a2-2fba-4df4-9484-76463bf158b8,START,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 03:42:10.979233,6ae932a2-2fba-4df4-9484-76463bf158b8,STOP,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 03:42:10.979233,975427ed-c1cb-4fd5-ac8b-22acc4826c18,START,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 03:42:21.958467,975427ed-c1cb-4fd5-ac8b-22acc4826c18,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 03:56:00.000000,fa3a2f47-be14-41a5-9b74-d760e90de438,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 03:58:00.000000,fa3a2f47-be14-41a5-9b74-d760e90de438,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 03:58:00.000000,d9c9b65b-668e-40da-a85a-150b5b549180,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 03:58:10.979233,d9c9b65b-668e-40da-a85a-150b5b549180,STOP,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 03:58:10.979233,c50f27f7-67d2-4504-a743-72a2ba1aaed4,START,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 04:00:10.979233,c50f27f7-67d2-4504-a743-72a2ba1aaed4,STOP,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 04:00:10.979233,393fb4a6-ac23-4410-b545-d22605bd133d,START,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 04:00:21.958467,393fb4a6-ac23-4410-b545-d22605bd133d,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 04:14:00.000000,da095e94-ef24-4287-b952-60d016482e42,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 04:16:00.000000,da095e94-ef24-4287-b952-60d016482e42,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 04:16:00.000000,50877eae-1db2-460e-94a7-17ec2785dd61,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 04:16:10.979233,50877eae-1db2-460e-94a7-17ec2785dd61,STOP,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 04:16:10.979233,72251285-2b98-4879-ab2e-c61826ee8730,START,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 04:18:10.979233,72251285-2b98-4879-ab2e-c61826ee8730,STOP,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 04:18:10.979233,883001c8-a09c-43c6-85d5-3a3c180b5b83,START,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 04:18:21.958467,883001c8-a09c-43c6-85d5-3a3c180b5b83,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 04:32:00.000000,4188d4ae-2f65-4ea7-9249-797d73fbbcca,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 04:34:00.000000,4188d4ae-2f65-4ea7-9249-797d73fbbcca,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 04:34:00.000000,2622a20f-ba04-4c9e-ab21-d836b9c0b781,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 04:34:10.979233,2622a20f-ba04-4c9e-ab21-d836b9c0b781,STOP,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 04:34:10.979233,5d39bb4f-92c9-45d2-95d2-5eb507c33443,START,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 04:36:10.979233,5d39bb4f-92c9-45d2-95d2-5eb507c33443,STOP,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 04:36:10.979233,0c403d0a-02d2-4515-9624-0e328c948042,START,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 04:36:21.958467,0c403d0a-02d2-4515-9624-0e328c948042,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 04:50:00.000000,40c25e5d-1452-4f9c-b426-91f368332ba3,START,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 04:52:00.000000,40c25e5d-1452-4f9c-b426-91f368332ba3,STOP,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 04:52:00.000000,c9eb9f62-426e-4fcc-8474-1bd43335a8ef,START,"{'container level': 1, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
+1970-01-01 04:52:10.979233,c9eb9f62-426e-4fcc-8474-1bd43335a8ef,STOP,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 04:52:10.979233,1ac92c59-cc80-4c48-8fb9-49d1136784c4,START,"{'container level': 1, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 04:54:10.979233,1ac92c59-cc80-4c48-8fb9-49d1136784c4,STOP,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 04:54:10.979233,adfb6d55-a321-4b40-8b66-38c52e89bef8,START,"{'container level': 0, 'geometry': <POINT (24.31 56.362)>}",{},pm_03
+1970-01-01 04:54:21.958467,adfb6d55-a321-4b40-8b66-38c52e89bef8,STOP,"{'container level': 0, 'geometry': <POINT (24.311 56.363)>}",{},pm_03
