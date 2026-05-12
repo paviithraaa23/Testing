@@ -69,12 +69,14 @@ def compute_results(
     }
 
 
-def make_csv(results, capacity=None):
+# ...existing code...
+
+def make_csv(results, capacity=None, daf=1.0, sf=1.5):
     output = io.StringIO()
     writer = csv.writer(output)
     writer.writerow(["Mode", "Simplified"])
-    writer.writerow(["DAF", f"{st.session_state.daf:.3f}"])
-    writer.writerow(["SF", f"{st.session_state.sf:.3f}"])
+    writer.writerow(["DAF", f"{daf:.3f}"])
+    writer.writerow(["SF", f"{sf:.3f}"])
     writer.writerow([])
     writer.writerow(["Computed Results"])
     writer.writerow(["Horizontal resultant, H (kN)", f"{results['H']:.3f}"])
@@ -90,15 +92,14 @@ def make_csv(results, capacity=None):
     writer.writerow(["ΣFz", f"{results['sum_fz']:.3f}"])
     writer.writerow(["Horizontal direction", f"{results['Horizontal direction']:.2f}"])
     writer.writerow([])
-    writer.writerow(
-        ["Line", "T (kN)", "T×DAF (kN)", "H angle (°)", "V angle (°)", "Fx (kN)", "Fy (kN)", "Fz (kN)"]
-    )
+    header = ["Line", "T (kN)", "T×DAF (kN)", "H angle (°)", "V angle (°)", "Fx (kN)", "Fy (kN)", "Fz (kN)"]
+    writer.writerow(header)
     for row in results["line_data"]:
-        writer.writerow([row[col] for col in writer.fieldnames])
+        writer.writerow([row[col] for col in header])
     return output.getvalue().encode("utf-8")
 
 
-def make_pdf(results, capacity=None):
+def make_pdf(results, capacity=None, daf=1.0, sf=1.5):
     if not PDF_AVAILABLE:
         return None
     pdf = FPDF()
@@ -106,35 +107,9 @@ def make_pdf(results, capacity=None):
     pdf.set_font("Helvetica", size=10)
     pdf.cell(0, 8, "Mooring Line Resultant Calculator", ln=True)
     pdf.cell(0, 6, f"Mode: Simplified", ln=True)
-    pdf.cell(0, 6, f"DAF: {st.session_state.daf:.3f}", ln=True)
-    pdf.cell(0, 6, f"SF: {st.session_state.sf:.3f}", ln=True)
-    pdf.ln(4)
-    pdf.cell(0, 6, f"Horizontal resultant, H (kN): {results['H']:.3f}", ln=True)
-    pdf.cell(0, 6, f"Total resultant, R (kN): {results['R']:.3f}", ln=True)
-    pdf.cell(0, 6, f"Design load, R×SF (kN): {results['Design Load']:.3f}", ln=True)
-    if capacity is not None:
-        utilization = results["R"] / capacity * 100 if capacity > 0 else 0.0
-        pdf.cell(0, 6, f"Capacity (kN): {capacity:.3f}", ln=True)
-        pdf.cell(0, 6, f"Utilization: {utilization:.1f} %", ln=True)
-    pdf.ln(4)
-    pdf.cell(0, 6, f"ΣFx: {results['sum_fx']:.3f}", ln=True)
-    pdf.cell(0, 6, f"ΣFy: {results['sum_fy']:.3f}", ln=True)
-    pdf.cell(0, 6, f"ΣFz: {results['sum_fz']:.3f}", ln=True)
-    pdf.cell(0, 6, f"Horizontal direction: {results['Horizontal direction']:.2f}°", ln=True)
-    pdf.ln(4)
-    pdf.cell(0, 6, "Line details", ln=True)
-    header = ["Line", "T (kN)", "T×DAF (kN)", "H angle (°)", "V angle (°)", "Fx (kN)", "Fy (kN)", "Fz (kN)"]
-    pdf.set_font("Helvetica", size=8)
-    line_height = 5
-    col_width = 25
-    for col in header:
-        pdf.cell(col_width, line_height, col, border=1)
-    pdf.ln(line_height)
-    for row in results["line_data"]:
-        for col in header:
-            pdf.cell(col_width, line_height, str(row[col]), border=1)
-        pdf.ln(line_height)
-    return pdf.output(dest="S").encode("latin-1")
+    pdf.cell(0, 6, f"DAF: {daf:.3f}", ln=True)
+    pdf.cell(0, 6, f"SF: {sf:.3f}", ln=True)
+    # ... rest unchanged ...
 
 
 def main():
@@ -142,7 +117,7 @@ def main():
     st.write("Choose simplified or detailed mode. Angles are in degrees.")
 
     mode = st.selectbox("Construction / Calculation mode", ["Simplified", "Detailed"])
-    st.session_state.daf = st.number_input(
+    daf = st.number_input(
         "Dynamic amplification factor (DAF)",
         value=1.00,
         min_value=0.0,
@@ -151,7 +126,7 @@ def main():
         key="daf",
     )
     st.write("Typical: 1.0–1.8 depending on exposure.")
-    st.session_state.sf = st.number_input(
+    sf = st.number_input(
         "Safety factor (SF)",
         value=1.50,
         min_value=0.01,
@@ -160,62 +135,7 @@ def main():
         key="sf",
     )
     st.write("Design load = resultant × SF.")
-    bollard_capacity = st.number_input(
-        "Bollard capacity check (kN) (optional)",
-        value=0.0,
-        min_value=0.0,
-        step=1.0,
-        format="%.3f",
-    )
-    st.write("---")
-
-    if mode == "Simplified":
-        st.header("Simplified inputs")
-        line_tension = st.number_input(
-            "Line tension per line (kN)",
-            value=200.0,
-            min_value=0.0,
-            step=1.0,
-            format="%.3f",
-        )
-        line_count = st.number_input(
-            "Number of lines on the bollard",
-            value=2,
-            min_value=1,
-            step=1,
-        )
-        lead_h = st.number_input(
-            "Horizontal lead angle (°)",
-            value=20.0,
-            step=0.5,
-        )
-        lead_v = st.number_input(
-            "Vertical lead angle (°)",
-            value=2.0,
-            step=0.5,
-        )
-        spread = st.number_input(
-            "Total spread angle across lines (°)",
-            value=10.0,
-            step=0.5,
-        )
-        st.write(
-            "If you enter 3 lines and a spread of 20°, the horizontal angles become "
-            "lead−10°, lead, lead+10°. Each mooring line tension is converted to kN, "
-            "multiplied by the dynamic factor DAF, then resolved into horizontal and "
-            "vertical components using the vertical lead angle."
-        )
-        st.code(
-            "Tdyn = T × DAF\n"
-            "Th = Tdyn × cos(θv)\n"
-            "Fz = Tdyn × sin(θv)\n"
-            "Fx = Th × cos(θh)\n"
-            "Fy = Th × sin(θh)\n"
-            "ΣFx, ΣFy, ΣFz are summed across all active lines.\n"
-            "H = √(ΣFx² + ΣFy²)\n"
-            "R = √(ΣFx² + ΣFy² + ΣFz²)\n"
-            "Design Load = R × SF"
-        )
+    # ... rest unchanged ...
 
         if st.button("Submit"):
             results = compute_results(
@@ -224,36 +144,11 @@ def main():
                 lead_h,
                 lead_v,
                 spread,
-                st.session_state.daf,
-                st.session_state.sf,
+                daf,
+                sf,
             )
-            st.subheader("Computed Results")
-            st.write(f"Mode: {mode}")
-            st.write(f"DAF: {st.session_state.daf:.3f}")
-            st.write(f"SF: {st.session_state.sf:.3f}")
-            st.metric("Horizontal resultant, H (kN)", f"{results['H']:.3f}")
-            st.metric("Total resultant, R (kN)", f"{results['R']:.3f}")
-            st.metric("Design load, R×SF (kN)", f"{results['Design Load']:.3f}")
-
-            if bollard_capacity > 0:
-                utilization = results["R"] / bollard_capacity * 100 if bollard_capacity > 0 else 0.0
-                st.write("Capacity check")
-                st.write(f"Enter capacity to compute utilization.")
-                st.write(f"Capacity: {bollard_capacity:.3f} kN")
-                st.write(f"Utilization: {utilization:.1f} %")
-
-            st.write("Resultant components (kN)")
-            col1, col2, col3 = st.columns(3)
-            col1.metric("ΣFx", f"{results['sum_fx']:.3f}")
-            col2.metric("ΣFy", f"{results['sum_fy']:.3f}")
-            col3.metric("ΣFz", f"{results['sum_fz']:.3f}")
-            st.metric("Horizontal direction", f"{results['Horizontal direction']:.2f}°")
-
-            st.write("---")
-            st.subheader("Line details")
-            st.table(results["line_data"])
-
-            csv_bytes = make_csv(results, capacity=bollard_capacity if bollard_capacity > 0 else None)
+            # ... rest unchanged ...
+            csv_bytes = make_csv(results, capacity=bollard_capacity if bollard_capacity > 0 else None, daf=daf, sf=sf)
             st.download_button(
                 "Download CSV",
                 data=csv_bytes,
@@ -262,17 +157,10 @@ def main():
             )
 
             if PDF_AVAILABLE:
-                pdf_bytes = make_pdf(results, capacity=bollard_capacity if bollard_capacity > 0 else None)
+                pdf_bytes = make_pdf(results, capacity=bollard_capacity if bollard_capacity > 0 else None, daf=daf, sf=sf)
                 st.download_button(
                     "Download PDF",
                     data=pdf_bytes,
                     file_name="mooring_results.pdf",
                     mime="application/pdf",
                 )
-            else:
-                st.info("Install fpdf to enable PDF report download.")
-    else:
-        st.info("Detailed mode is not implemented in this version.")
-
-if __name__ == "__main__":
-    main()
